@@ -66,7 +66,3 @@ O projeto foi construído para ser reprodutível. Siga os passos abaixo:
 * **Segurança:** Uso de variáveis de ambiente (`.env`) para ocultar credenciais em código público.
 * **Modularização:** Lógicas complexas de busca em grafos isoladas no pacote `src/functions.py` para manter os notebooks limpos e focados em análise.
 * **Modelagem:** Adaptação de um problema de natureza NP-Difícil utilizando métodos heurísticos para encontrar rotas sub-ótimas altamente eficientes em tempo viável de processamento.
-
-## 📄 Licença
-
-Este projeto é de uso restrito e não está disponível para redistribuição.
