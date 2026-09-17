@@ -1,0 +1,211 @@
+origem,destino,score_passeio,custo_total,tempo_total
+Hotel,Cristo Redentor,0.01,132.3,169.01666666666665
+Hotel,Jardim Botânico,0.2,27.3,153.08333333333334
+Hotel,CCBB,0.25,0.0,169.68333333333334
+Hotel,Museu do Amanhã,0.15,30.0,121.46666666666667
+Hotel,Pão de Açúcar,0.05,202.5,107.5
+Hotel,AquaRio,0.3,120.0,132.23333333333332
+Hotel,Theatro Municipal,0.15,20.0,94.01666666666667
+Hotel,Parque dos Patins,0.2,34.3,107.85
+Hotel,Mosteiro de São Bento,0.3,0.0,54.81666666666666
+Hotel,Santa Teresa,0.1,20.0,124.05
+Hotel,Forte de Copacabana,0.2,10.3,136.8
+Hotel,BioParque do Rio,0.3,55.9,203.75
+Hotel,Maracanã,0.25,79.3,112.38333333333334
+Hotel,Restaurante Spesso,0.1,75.4,18.316666666666663
+Cristo Redentor,Hotel,0.0,4.3,80.95
+Cristo Redentor,Jardim Botânico,0.2,31.6,217.16666666666669
+Cristo Redentor,CCBB,0.25,4.3,229.6
+Cristo Redentor,Museu do Amanhã,0.15,34.3,182.5333333333333
+Cristo Redentor,Pão de Açúcar,0.05,203.6,193.88333333333333
+Cristo Redentor,AquaRio,0.3,124.3,201.81666666666666
+Cristo Redentor,Theatro Municipal,0.15,24.3,172.18333333333334
+Cristo Redentor,Parque dos Patins,0.2,38.6,172.05
+Cristo Redentor,Mosteiro de São Bento,0.3,4.3,114.86666666666666
+Cristo Redentor,Santa Teresa,0.1,24.3,206.41666666666669
+Cristo Redentor,Forte de Copacabana,0.2,14.6,185.76666666666668
+Cristo Redentor,BioParque do Rio,0.3,55.9,251.66666666666669
+Cristo Redentor,Maracanã,0.25,79.3,169.81666666666666
+Cristo Redentor,Restaurante Spesso,0.1,67.9,48.0
+Jardim Botânico,Hotel,0.0,4.3,44.63333333333333
+Jardim Botânico,Cristo Redentor,0.01,136.6,205.45
+Jardim Botânico,CCBB,0.25,4.3,192.5
+Jardim Botânico,Museu do Amanhã,0.15,38.6,151.28333333333333
+Jardim Botânico,Pão de Açúcar,0.05,199.3,121.05
+Jardim Botânico,AquaRio,0.3,128.6,160.2
+Jardim Botânico,Theatro Municipal,0.15,24.3,135.41666666666666
+Jardim Botânico,Parque dos Patins,0.2,30.0,73.1
+Jardim Botânico,Mosteiro de São Bento,0.3,4.3,80.81666666666666
+Jardim Botânico,Santa Teresa,0.1,24.3,169.65
+Jardim Botânico,Forte de Copacabana,0.2,14.6,141.18333333333334
+Jardim Botânico,BioParque do Rio,0.3,60.2,216.15
+Jardim Botânico,Maracanã,0.25,83.6,141.9666666666667
+Jardim Botânico,Restaurante Spesso,0.1,72.2,34.71666666666667
+CCBB,Hotel,0.0,0.0,19.8
+CCBB,Cristo Redentor,0.01,132.3,172.63333333333333
+CCBB,Jardim Botânico,0.2,27.3,160.61666666666667
+CCBB,Museu do Amanhã,0.15,30.0,106.71666666666667
+CCBB,Pão de Açúcar,0.05,199.3,149.98333333333335
+CCBB,AquaRio,0.3,120.0,117.55
+CCBB,Theatro Municipal,0.15,20.0,104.81666666666666
+CCBB,Parque dos Patins,0.2,34.3,115.38333333333334
+CCBB,Mosteiro de São Bento,0.3,0.0,38.11666666666667
+CCBB,Santa Teresa,0.1,20.0,138.83333333333331
+CCBB,Forte de Copacabana,0.2,10.3,144.36666666666667
+CCBB,BioParque do Rio,0.3,55.9,206.18333333333334
+CCBB,Maracanã,0.25,83.6,108.61666666666667
+CCBB,Restaurante Spesso,0.1,72.2,45.61666666666667
+Museu do Amanhã,Hotel,0.0,4.3,28.35
+Museu do Amanhã,Cristo Redentor,0.01,136.6,182.1
+Museu do Amanhã,Jardim Botânico,0.2,31.6,174.15
+Museu do Amanhã,CCBB,0.25,0.0,166.83333333333334
+Museu do Amanhã,Pão de Açúcar,0.05,203.6,163.58333333333331
+Museu do Amanhã,AquaRio,0.3,120.0,108.18333333333334
+Museu do Amanhã,Theatro Municipal,0.15,20.0,116.68333333333334
+Museu do Amanhã,Parque dos Patins,0.2,38.6,128.91666666666669
+Museu do Amanhã,Mosteiro de São Bento,0.3,0.0,38.78333333333333
+Museu do Amanhã,Santa Teresa,0.1,20.0,150.71666666666667
+Museu do Amanhã,Forte de Copacabana,0.2,14.6,157.9666666666667
+Museu do Amanhã,BioParque do Rio,0.3,64.5,208.88333333333333
+Museu do Amanhã,Maracanã,0.25,79.3,147.38333333333333
+Museu do Amanhã,Restaurante Spesso,0.1,76.5,59.15
+Pão de Açúcar,Hotel,0.0,4.3,61.95
+Pão de Açúcar,Cristo Redentor,0.01,132.3,181.85
+Pão de Açúcar,Jardim Botânico,0.2,31.6,181.81666666666666
+Pão de Açúcar,CCBB,0.25,4.3,226.38333333333333
+Pão de Açúcar,Museu do Amanhã,0.15,34.3,179.3
+Pão de Açúcar,AquaRio,0.3,128.6,186.56666666666666
+Pão de Açúcar,Theatro Municipal,0.15,24.3,155.86666666666667
+Pão de Açúcar,Parque dos Patins,0.2,38.6,136.58333333333331
+Pão de Açúcar,Mosteiro de São Bento,0.3,4.3,111.63333333333334
+Pão de Açúcar,Santa Teresa,0.1,24.3,186.0
+Pão de Açúcar,Forte de Copacabana,0.2,10.3,129.5
+Pão de Açúcar,BioParque do Rio,0.3,55.9,238.15
+Pão de Açúcar,Maracanã,0.25,79.3,145.33333333333331
+Pão de Açúcar,Restaurante Spesso,0.1,67.9,29.383333333333333
+AquaRio,Hotel,0.0,4.3,23.383333333333333
+AquaRio,Cristo Redentor,0.01,136.6,181.63333333333333
+AquaRio,Jardim Botânico,0.2,31.6,162.0
+AquaRio,CCBB,0.25,0.0,177.56666666666666
+AquaRio,Museu do Amanhã,0.15,30.0,108.08333333333333
+AquaRio,Pão de Açúcar,0.05,203.6,151.4
+AquaRio,Theatro Municipal,0.15,28.6,116.25
+AquaRio,Parque dos Patins,0.2,38.6,116.76666666666667
+AquaRio,Mosteiro de São Bento,0.3,0.0,49.516666666666666
+AquaRio,Santa Teresa,0.1,24.3,137.48333333333335
+AquaRio,Forte de Copacabana,0.2,14.6,145.78333333333333
+AquaRio,BioParque do Rio,0.3,55.9,233.93333333333334
+AquaRio,Maracanã,0.25,83.6,128.86666666666667
+AquaRio,Restaurante Spesso,0.1,76.5,47.0
+Theatro Municipal,Hotel,0.0,0.0,4.016666666666667
+Theatro Municipal,Cristo Redentor,0.01,132.3,168.53333333333333
+Theatro Municipal,Jardim Botânico,0.2,27.3,152.51666666666665
+Theatro Municipal,CCBB,0.25,0.0,164.71666666666667
+Theatro Municipal,Museu do Amanhã,0.15,30.0,116.5
+Theatro Municipal,Pão de Açúcar,0.05,202.5,109.18333333333334
+Theatro Municipal,AquaRio,0.3,120.0,127.26666666666667
+Theatro Municipal,Parque dos Patins,0.2,34.3,107.28333333333333
+Theatro Municipal,Mosteiro de São Bento,0.3,0.0,49.85
+Theatro Municipal,Santa Teresa,0.1,20.0,124.26666666666667
+Theatro Municipal,Forte de Copacabana,0.2,10.3,136.25
+Theatro Municipal,BioParque do Rio,0.3,55.9,207.61666666666667
+Theatro Municipal,Maracanã,0.25,79.3,116.25
+Theatro Municipal,Restaurante Spesso,0.1,75.4,20.0
+Parque dos Patins,Hotel,0.0,4.3,58.66666666666666
+Parque dos Patins,Cristo Redentor,0.01,136.6,219.48333333333332
+Parque dos Patins,Jardim Botânico,0.2,23.0,128.51666666666665
+Parque dos Patins,CCBB,0.25,4.3,206.53333333333333
+Parque dos Patins,Museu do Amanhã,0.15,38.6,165.03333333333333
+Parque dos Patins,Pão de Açúcar,0.05,199.3,135.08333333333331
+Parque dos Patins,AquaRio,0.3,128.6,174.05
+Parque dos Patins,Theatro Municipal,0.15,24.3,149.45
+Parque dos Patins,Mosteiro de São Bento,0.3,4.3,94.85
+Parque dos Patins,Santa Teresa,0.1,24.3,183.68333333333334
+Parque dos Patins,Forte de Copacabana,0.2,14.6,167.61666666666667
+Parque dos Patins,BioParque do Rio,0.3,60.2,228.58333333333331
+Parque dos Patins,Maracanã,0.25,83.6,152.0
+Parque dos Patins,Restaurante Spesso,0.1,72.2,48.75
+Mosteiro de São Bento,Hotel,0.0,0.0,24.9
+Mosteiro de São Bento,Cristo Redentor,0.01,132.3,176.16666666666669
+Mosteiro de São Bento,Jardim Botânico,0.2,27.3,166.78333333333333
+Mosteiro de São Bento,CCBB,0.25,0.0,158.05
+Mosteiro de São Bento,Museu do Amanhã,0.15,30.0,98.6
+Mosteiro de São Bento,Pão de Açúcar,0.05,199.3,156.2166666666667
+Mosteiro de São Bento,AquaRio,0.3,120.0,109.43333333333334
+Mosteiro de São Bento,Theatro Municipal,0.15,20.0,109.91666666666667
+Mosteiro de São Bento,Parque dos Patins,0.2,34.3,121.55
+Mosteiro de São Bento,Santa Teresa,0.1,20.0,143.93333333333334
+Mosteiro de São Bento,Forte de Copacabana,0.2,10.3,150.6
+Mosteiro de São Bento,BioParque do Rio,0.3,60.2,199.78333333333333
+Mosteiro de São Bento,Maracanã,0.25,83.6,113.7
+Mosteiro de São Bento,Restaurante Spesso,0.1,72.2,51.78333333333333
+Santa Teresa,Hotel,0.0,0.0,3.6166666666666663
+Santa Teresa,Cristo Redentor,0.01,132.3,172.36666666666667
+Santa Teresa,Jardim Botânico,0.2,27.3,156.35
+Santa Teresa,CCBB,0.25,0.0,168.3
+Santa Teresa,Museu do Amanhã,0.15,30.0,120.08333333333333
+Santa Teresa,Pão de Açúcar,0.05,202.5,111.48333333333332
+Santa Teresa,AquaRio,0.3,124.3,145.56666666666666
+Santa Teresa,Theatro Municipal,0.15,20.0,93.83333333333333
+Santa Teresa,Parque dos Patins,0.2,34.3,111.11666666666667
+Santa Teresa,Mosteiro de São Bento,0.3,0.0,53.43333333333334
+Santa Teresa,Forte de Copacabana,0.2,10.3,140.08333333333331
+Santa Teresa,BioParque do Rio,0.3,55.9,207.36666666666667
+Santa Teresa,Maracanã,0.25,79.3,116.0
+Santa Teresa,Restaurante Spesso,0.1,75.4,22.3
+Forte de Copacabana,Hotel,0.0,4.3,83.78333333333333
+Forte de Copacabana,Cristo Redentor,0.01,132.3,204.2166666666667
+Forte de Copacabana,Jardim Botânico,0.2,27.3,169.71666666666667
+Forte de Copacabana,CCBB,0.25,4.3,229.9
+Forte de Copacabana,Museu do Amanhã,0.15,34.3,182.81666666666666
+Forte de Copacabana,Pão de Açúcar,0.05,199.3,116.46666666666667
+Forte de Copacabana,AquaRio,0.3,128.6,188.38333333333333
+Forte de Copacabana,Theatro Municipal,0.15,24.3,172.51666666666665
+Forte de Copacabana,Parque dos Patins,0.2,38.6,140.55
+Forte de Copacabana,Mosteiro de São Bento,0.3,4.3,115.15
+Forte de Copacabana,Santa Teresa,0.1,24.3,206.75
+Forte de Copacabana,BioParque do Rio,0.3,55.9,265.23333333333335
+Forte de Copacabana,Maracanã,0.25,79.3,194.15
+Forte de Copacabana,Restaurante Spesso,0.1,72.2,48.78333333333333
+BioParque do Rio,Hotel,0.0,4.3,50.85
+BioParque do Rio,Cristo Redentor,0.01,136.6,188.2
+BioParque do Rio,Jardim Botânico,0.2,31.6,168.66666666666666
+BioParque do Rio,CCBB,0.25,8.6,184.58333333333334
+BioParque do Rio,Museu do Amanhã,0.15,38.6,138.61666666666667
+BioParque do Rio,Pão de Açúcar,0.05,203.6,158.31666666666666
+BioParque do Rio,AquaRio,0.3,124.3,119.55
+BioParque do Rio,Theatro Municipal,0.15,28.6,132.38333333333333
+BioParque do Rio,Parque dos Patins,0.2,38.6,123.43333333333334
+BioParque do Rio,Mosteiro de São Bento,0.3,8.6,71.38333333333333
+BioParque do Rio,Santa Teresa,0.1,24.3,167.51666666666665
+BioParque do Rio,Forte de Copacabana,0.2,10.3,166.91666666666669
+BioParque do Rio,Maracanã,0.25,75.0,74.05
+BioParque do Rio,Restaurante Spesso,0.1,76.5,53.66666666666666
+Maracanã,Hotel,0.0,8.6,66.01666666666667
+Maracanã,Cristo Redentor,0.01,132.3,211.25
+Maracanã,Jardim Botânico,0.2,31.6,189.06666666666666
+Maracanã,CCBB,0.25,8.6,204.98333333333332
+Maracanã,Museu do Amanhã,0.15,38.6,159.01666666666665
+Maracanã,Pão de Açúcar,0.05,203.6,178.7166666666667
+Maracanã,AquaRio,0.3,128.6,165.15
+Maracanã,Theatro Municipal,0.15,28.6,152.78333333333333
+Maracanã,Parque dos Patins,0.2,38.6,143.83333333333331
+Maracanã,Mosteiro de São Bento,0.3,8.6,91.78333333333333
+Maracanã,Santa Teresa,0.1,28.6,180.1
+Maracanã,Forte de Copacabana,0.2,10.3,163.91666666666669
+Maracanã,BioParque do Rio,0.3,51.6,179.08333333333331
+Maracanã,Restaurante Spesso,0.1,76.5,74.06666666666666
+Restaurante Spesso,Hotel,0.0,4.3,39.15
+Restaurante Spesso,Cristo Redentor,0.01,128.0,141.45
+Restaurante Spesso,Jardim Botânico,0.2,27.3,140.6
+Restaurante Spesso,CCBB,0.25,4.3,187.01666666666665
+Restaurante Spesso,Museu do Amanhã,0.15,38.6,145.8
+Restaurante Spesso,Pão de Açúcar,0.05,195.0,89.6
+Restaurante Spesso,AquaRio,0.3,128.6,153.8
+Restaurante Spesso,Theatro Municipal,0.15,24.3,129.93333333333334
+Restaurante Spesso,Parque dos Patins,0.2,34.3,95.36666666666667
+Restaurante Spesso,Mosteiro de São Bento,0.3,4.3,75.33333333333334
+Restaurante Spesso,Santa Teresa,0.1,24.3,164.16666666666666
+Restaurante Spesso,Forte de Copacabana,0.2,10.3,116.61666666666667
+Restaurante Spesso,BioParque do Rio,0.3,60.2,210.66666666666666
+Restaurante Spesso,Maracanã,0.25,79.3,131.43333333333334
